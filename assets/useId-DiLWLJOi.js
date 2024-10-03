@@ -1,1 +1,0 @@
-import{h as s,y as c,aa as l}from"./index-BBaLOZyW.js";let e=0;function d(t){const[n,a]=s(t),o=t||n;return c(()=>{n==null&&(e+=1,a(`mui-${e}`))},[n]),o}const u=l.useId;function I(t){if(u!==void 0){const n=u();return t??n}return d(t)}export{I as u};
